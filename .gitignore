@@ -2,3 +2,4 @@ node_modules
 public
 files/style.css
 .vscode
+.netlify
