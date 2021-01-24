@@ -1,0 +1,23 @@
+body {
+  font-family: $primary;
+  font-family: $secondary;
+  font-family: $third;
+  font-family: $fourth;
+  font-family: $fifth;
+  font-family: $sixth;
+  font-family: $seventh;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+  font-family: $secondary;
+}
+
+main {
+  font-size: calc((1.5 - 1) * 1.2vw + 1rem);
+}
+
+.pink { background: $pink; }
+.orange { background: $orange; }

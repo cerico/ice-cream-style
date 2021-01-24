@@ -1,0 +1,19 @@
+nav {
+	display: none;
+  flex-wrap: wrap;
+  top: 60px;
+  position: fixed;
+  z-index: 10;
+  color: $orange;
+  a { padding-left: 3vw; }
+  
+  div:not(:last-child) {
+    margin-right: 3vw;
+  }
+  @media screen and (min-width: 800px) {
+    display: inline;
+  }
+  @media screen and (min-width: 1000px) {
+    display: inline-flex;
+  }
+}
