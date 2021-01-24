@@ -19,5 +19,8 @@ main {
   font-size: calc((1.5 - 1) * 1.2vw + 1rem);
 }
 
-.pink { background: $pink; }
-.orange { background: $orange; }
+.pink { background: $pink; color: $white }
+.orange { background: $orange;color: $white }
+.blue { background: $blue; color: $parchment}
+.green { background: $green; color: $parchment}
+.parchment { background: $parchment; color: $green}

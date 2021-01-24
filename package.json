@@ -9,7 +9,7 @@
     "sergey": "0.0.13"
   },
   "scripts": {
-    "serge": "sergey --watch --port=8220 --exclude=.vscode,src",
+    "serge": "sergey --watch --port=8260 --exclude=.vscode,src",
     "build": "npm run build:css && sergey --exclude=.vscode,src",
     "netlify": "netlify deploy --prod -d public",
     "sass": "sass --no-source-map src/style.scss files/style.css",

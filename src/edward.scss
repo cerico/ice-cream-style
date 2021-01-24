@@ -1,14 +1,13 @@
 .text {
-  background: $peach;
   h1 {
-    color: #172bae;
+    color: $parchment;
     font-family: "vollkorn";
     font-size: 48px;
     letter-spacing: -1px;
     margin: 0 0 0 -8px;
   }
   p {
-    color: #172bae;
+    color: $parchment;
     font: 400 20px/30px "vollkorn";
     font-style: normal;
     font-style: italic;

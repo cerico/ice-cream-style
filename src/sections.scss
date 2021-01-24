@@ -1,8 +1,6 @@
 .section-left {
   min-height: 100vh;
   display: flex;
-  color: $orange;
-  background: $peach;
   position: relative;
   width: 100%;
   align-items: center;
@@ -15,7 +13,6 @@
 .section-right {
   position: relative;
   width: 100%;
-  color: $white;
   display: flex;
   align-items: center;
   @media screen and (min-width: 800px) {
