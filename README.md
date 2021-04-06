@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/31b8ccb9-33ff-48b7-b08a-f85b63eaead7/deploy-status)](https://app.netlify.com/sites/ice-cream-style/deploys) [![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade/ice-cream-style.netlify.app)](https://observatory.mozilla.org/analyze/ice-cream-style.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9fb92e82-ab6d-46ea-9fdc-4260b7c8a528/deploy-status)](https://app.netlify.com/sites/ice-cream-style/deploys) [![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade/ice-cream-style.netlify.app)](https://observatory.mozilla.org/analyze/ice-cream-style.netlify.app)
 # slide-layout-2020
 New Layout
 
